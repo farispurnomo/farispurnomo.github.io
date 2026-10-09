@@ -1,0 +1,1 @@
+var e=`/assets/pemda_logo-CfTBIzw6.svg`;export{e as t};

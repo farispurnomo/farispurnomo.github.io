@@ -1,0 +1,1 @@
+import{A as e,E as t,h as n,m as r,u as i}from"./runtime-core.esm-bundler-5wPVYNpe.js";import{t as a}from"./Toast-d0zDxYNY.js";var o=n({__name:`Auth`,setup(n){return(n,o)=>{let s=e(`router-view`);return t(),i(`div`,null,[r(a),r(s)])}}});export{o as default};

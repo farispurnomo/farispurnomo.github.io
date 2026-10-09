@@ -1,0 +1,1 @@
+import{t as e}from"./MapAxiosError-DlDnwm08.js";var t={submit:async function(t){try{await new Promise(e=>{setTimeout(e,1e3)})}catch(t){throw e(t)}},verifikasi:async function(t){try{return await new Promise(e=>{setTimeout(e,1e3)}),!0}catch(t){throw e(t)}}};export{t};

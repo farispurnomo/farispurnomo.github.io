@@ -1,0 +1,1 @@
+var e=(e,t)=>({data:e.data.map(t),currentPage:e.current_page,perPage:e.per_page,total:e.total,totalPages:e.total_pages});export{e as t};
